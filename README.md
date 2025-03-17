@@ -16,7 +16,7 @@
 ```
 </details>
 
-# ⭐ Release 1.0.0 ⭐
+# ⭐ Leaked womp womp ⭐
 
 - Generates twitter-based (no email required) on streamlabs
 - Doesn't require emails
