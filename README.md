@@ -10,7 +10,7 @@
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 ```bash
 1. Download this Project
-2. pip install os datetime itertools requests colorama
+2. pip install re tls_client bs4 time colorama string random datetime
 3. run "py main.py"
 4. and let it do it's magic 😙
 ```
