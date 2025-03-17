@@ -19,6 +19,7 @@
 # ⭐ Leaked womp womp ⭐
 
 - Generates twitter-based (no email required) on streamlabs
+- Requires twitter tokens only! get them from http://hstock.org/
 - Doesn't require emails
 - Doesn't require any turnstile solver
 - Doesn't require proxies
