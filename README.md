@@ -28,3 +28,4 @@
 - Don't sell it bitches.
 - Special thanks to Me & Me & Anas 💖
 - Shit working for 3+ months you bozos 🤣
+![Uploading image.png…]()
